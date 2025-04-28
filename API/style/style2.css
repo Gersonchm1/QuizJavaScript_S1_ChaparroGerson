@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "juan";
+    src: url(../fonts/OpenSans_SemiCondensed-Regular.ttf);
+}
+body{
+    background-color: #F6EDFF;
+}
+.img-2{
+    width: 10vw;
+    height: 10vw;
+    margin: 3vw 0vw 0vw 80vw;
+}
+
+
+.img-3{
+    position: relative;
+    display: flex;
+    margin: 5vw 0vw 0vw 86vw;
+}
+.btn-1{
+    text-decoration: none;
+ 
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 27vw;
+    height: 10vw;
+    border: #F6EDFF;
+    background-color: white;
+    
+    margin: 7vw 0vw 0vw 65vw;
+}
+.text-1{
+    text-decoration: none;
+    color: black;
+    font-size: 3.8vw;
+    
+
+    margin: 2.5vw 0vw 0vw 5vw;
+}
+.btn-2{
+    text-decoration: none;
+  
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 27vw;
+    height: 10vw;
+    border: #F6EDFF;
+    background-color: white;
+    
+    margin: -10vw 0vw 0vw 32vw;
+}
+.btn-3{
+    text-decoration: none;
+ 
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 27vw;
+    height: 10vw;
+    border: #F6EDFF;
+    background-color: white;
+    
+    margin: -10vw 0vw 0vw 0vw;
+}
+.cuadro-7{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
+.cuadro-8{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
+.cuadro-9{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
+.cuadro-10{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
+.cuadro-11{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
+.cuadro-12{
+    background-color: #D0BCFF;
+    opacity: 30%;
+    display: flex;
+    position: relative;
+    border-radius: 2.5vw;
+    width: 95vw;
+    height: 25vw;
+    margin: 5vw 0vw 0vw 0vw;
+
+}
