@@ -1,7 +1,7 @@
 
 function fetch(){
     let xhr = new XMLHttpRequest();
-    let link =`http://api.weatherapi.com/v1/current.json?key=587e3ce13a5944f8a94115014252804&q=Floridablanca&lang=es`
+    let link =`http://api.weatherapi.com/v1/current.json?key=587e3ce13a5944f8a94115014252804&q=Kharkiv&lang=es`
     xhr.open("GET",link, true);
     xhr.onreadystatechange = function(){
         if (xhr.readyState=== 4 && xhr.status === 200){
@@ -10,8 +10,10 @@ function fetch(){
             console.log(typeof data);
             let temp1= Math.round(data["current"]["temp_c"])
             country_name.innerHTML =`
-            <p class="country-name">${data["location"]["name"]}, ${data["location"]["country"]}
-            </span></p>
+            <h1 class="country-name">${data["location"]["name"]}, ${data["location"]["country"]}
+            </h1>
+            <h1 class="temperature">${data["current"]["temp_c"]}</h1>
+
             `
         }
     
