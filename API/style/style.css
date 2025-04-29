@@ -5,6 +5,184 @@
 body{
     background-color: #F6EDFF;
 }
+.localtime{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 86vw 0vw 0vw 0vw;
+}
+.hour2{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 169vw 0vw 0vw 80vw;
+    font-family: "juan";
+}
+.nubecita1{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 176vw 0vw 0vw 78vw;
+   
+ 
+    
+}
+.hour3{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 189vw 0vw 0vw 80vw;
+    font-family: "juan";
+
+}
+.hour{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 165vw 0vw 0vw 0vw;
+    font-family: "juan";
+}
+.nubecita{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 172vw 0vw 0vw -2vw;
+   
+ 
+    
+}
+.hour4{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 169vw 0vw 0vw 2vw;
+    font-family: "juan";
+
+
+}
+.hour5{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 189vw 0vw 0vw 2vw;
+    font-family: "juan";
+}
+.nubecita2{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 175vw 0vw 0vw 0vw;
+   
+ 
+    
+}
+.hour6{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 169vw 0vw 0vw 20vw;
+    font-family: "juan";
+
+
+}
+.hour7{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 189vw 0vw 0vw 20vw;
+    font-family: "juan";
+}
+.nubecita3{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 175vw 0vw 0vw 18vw;
+   
+ 
+    
+}
+.hour8{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 169vw 0vw 0vw 38vw;
+    font-family: "juan";
+
+
+}
+.hour9{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 189vw 0vw 0vw 38vw;
+    font-family: "juan";
+}
+.nubecita4{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(255, 255, 255);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 175vw 0vw 0vw 36vw;
+   
+ 
+    
+}
+
+.hour1{
+    position: absolute;
+    display: flex;
+    margin: 0vw 0vw 0vw 0vw;
+    color: rgb(0, 0, 0);
+    font-size: 4.3vw;
+    font-family: "j";
+    margin: 185vw 0vw 0vw 0vw;
+    font-family: "juan";
+
+}
 .img-1{
  
     position: relative;
@@ -135,8 +313,18 @@ body{
     position: relative;
     border-radius: 2.5vw;
     width: 95vw;
-    height: 35vw;
-    margin: 5vw 0vw 0vw 0vw;
+    height: 40vw;
+    margin:3vw 0vw 0vw 0vw;
+
+}
+.timeout{
+    width: 8vw;
+    height: 8vw;
+}
+.hourly{
+    color: black;
+    position: absolute;
+    margin: -40vw 0vw 0vw 10vw;
 
 }
 .cuadro-6{
